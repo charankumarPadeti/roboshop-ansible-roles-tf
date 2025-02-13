@@ -1,10 +1,11 @@
-MONGODB_HOST: mongodb-dev.charan.fun
-REDIS_HOST: redis-dev.charan.fun
-MYSQL_HOST: mysql-dev.charan.fun
-RABBITMQ_HOST: rabbitmq-dev.charan.fun
-CATALOGUE_HOST: catalogue-dev.charan.fun
-USER_HOST: user-dev.charan.fun
-CART_HOST: cart-dev.charan.fun
-SHIPPING_HOST: shipping-dev.charan.fun
-PAYMENT_HOST: payment-dev.charan.fun
-DISPATCH_HOST: dispatch-dev.charan.fun
+MONGODB_HOST: mongodb-dev.devopspractice.fun
+REDIS_HOST: redis-dev.devopspractice.fun
+MYSQL_HOST: mysql-dev.devopspractice.fun
+RABBITMQ_HOST: rabbitmq-dev.devopspractice.fun
+CATALOGUE_HOST: catalogue-dev.devopspractice.fun
+USER_HOST: user-dev.devopspractice.fun
+CART_HOST: cart-dev.devopspractice.fun
+SHIPPING_HOST: shipping-dev.devopspractice.fun
+PAYMENT_HOST: payment-dev.devopspractice.fun
+DISPATCH_HOST: dispatch-dev.devopspractice.fun
+NEXUS_URL: 
