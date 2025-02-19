@@ -8,4 +8,5 @@ CART_HOST: cart-dev.devopspractice.fun
 SHIPPING_HOST: shipping-dev.devopspractice.fun
 PAYMENT_HOST: payment-dev.devopspractice.fun
 DISPATCH_HOST: dispatch-dev.devopspractice.fun
-NEXUS_URL: 
+NEXUS_URL: http://172.31.37.164:8081/repository
+group_id: "com/roboshop"
